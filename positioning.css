@@ -120,3 +120,9 @@ nav li {
   color: #fff;
   float: right;
 }
+
+.services {
+  max-height: 150px;
+  overflow: hidden;
+
+}

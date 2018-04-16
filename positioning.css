@@ -4,7 +4,7 @@ body{
 
 .wrapper {
   background: #fff;
-  max-width:960px;
+  max-width:800px;
   margin:0 auto;
   padding: 20px;
 }
@@ -16,5 +16,6 @@ body{
 }
 
 img {
-
+  float: left;
+  margin: 10px;
 }

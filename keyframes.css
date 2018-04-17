@@ -47,7 +47,7 @@ html, body{
   animation-duration: 3s;
   animation-fill-mode: both;
   animation-iteration-count: infinite;
-
+  animation-timing-function: cubic-bezier(0,1.87,.98,-0.13);
 }
 
 .luigi {

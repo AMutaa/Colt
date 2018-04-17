@@ -44,10 +44,12 @@ html, body{
   top: -40px;
   left: 0px;
   animation-name: run;
-  animation-duration: 3s
+  animation-duration: 3s;
+  animation-fill-mode: both;
+  animation-delay: 2s;
 }
 
 @keyframes run {
-  from{ transform: translateX(0)}
+  from{ transform: translateX(200px)}
   to{ transform: translateX(700px)}
 }
